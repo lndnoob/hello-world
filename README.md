@@ -1,2 +1,3 @@
 # hello-world
-Yet another repository
+
+Follow my first moves on Github. I like turtles.
