@@ -1,3 +1,3 @@
 # hello-world
 
-Follow my first moves on Github. I like turtles.
+Follow my first moves on Github. I like turtles. And waffles.
